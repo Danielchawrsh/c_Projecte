@@ -4,7 +4,7 @@
 
 
 
-Ich habe praktische Erfahrung als Elektriker, unter anderem in Betriebselektrik, Schaltschrankbau und Automatisierungstechnik. Aktuell erweitere ich meine technischen Kenntnisse durch eine berufsbegleitende Weiterbildung im Bereich Softwareentwicklung.
+Ich habe Berufserfahrung als Elektriker, unter anderem in Betriebselektrik, Schaltschrankbau und Automatisierungstechnik. Aktuell erweitere ich meine technischen Kenntnisse durch eine  Weiterbildung im Bereich Softwareentwicklung.
 
 ## 🔧 Technischer Hintergrund
 
@@ -19,8 +19,7 @@ Ich habe praktische Erfahrung als Elektriker, unter anderem in Betriebselektrik,
 
 ## 💻 Softwareentwicklung
 
-html,css,sass,mysql,javaScript,React,
-Grundlagen: php,linux,python,c,
 
-
+html, css, sass, mysql, javaScript, React,
+Grundlagen: php, linux, python, c,
 
