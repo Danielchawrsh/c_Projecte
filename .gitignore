@@ -21,7 +21,15 @@
 *.a
 *.la
 *.lo
-
+.vs/
+x64/
+*.obj
+*.exe
+*.pdb
+*.ilk
+*.log
+*.tlog/
+*.user
 # Shared objects (inc. Windows DLLs)
 *.dll
 *.so
